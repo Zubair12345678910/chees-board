@@ -1,0 +1,34 @@
+.king{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(18, 227, 213);
+}
+.chess{
+    height: 90px;
+    width: 90px;
+    padding: 5px;
+}
+.king-2{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(221, 234, 236);
+}
+.king-3{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(12, 239, 239);
+}
+.king-4{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(221, 234, 236);
+}
+.main{
+    display: flex;
+  
+
+}
+.main-2{
+    display: flex;
+   
+}
